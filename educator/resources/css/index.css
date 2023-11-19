@@ -1,0 +1,498 @@
+/**header**/
+.font{
+    font-family: lora_bold ,Arial, sans-serif;
+}
+
+.font_medium{
+    font-family: lora_medium, Arial,sans-serif;
+}
+
+.font_bold{
+    font-family: open_bold ,Arial ,sans-serif;
+}
+
+#logo{
+    width: 11%;
+}
+
+#educator{
+    margin-left: 35px;
+    
+}
+
+#navigation_bar{
+    float: right;
+}
+
+.nav_items{
+    display: inline-block;
+    text-decoration: none;
+    box-sizing: border-box;
+    color: #212121;
+    padding: 25px;
+    padding-right: 10px;
+    font-size: 14px;
+    font-weight: 700;
+   
+}
+
+.two_icon{
+    padding: 20px;
+    font-size: 14px;
+    color: #212121;
+   
+}
+/**body**/
+
+#image{
+    margin: 0px 70px;
+    position: relative;
+}
+
+.image_box{
+    width: 100%;
+}
+
+.image_box_wrapper{
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+#image_box_1{
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+.student_image{
+    width: 100%;
+    height: auto;
+  
+}
+
+.image_title_box{
+    position: absolute;
+    top: 10px;
+}
+
+
+.image_title_wrapper{
+    position: absolute;
+    text-align: left;
+    padding: 25px;
+  
+}
+
+.icon_box{
+    font-size: 30px;
+    color: white;
+
+}
+
+#title_box{
+    font-size: 25px;
+    color: white;
+}
+
+#read_more_box{
+    font-size: 12px;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+#image_box_2{
+    width: 50%;
+    height: auto;
+    float: right;
+}
+
+#image_box_3{
+    width: 100%;
+    height: auto;
+}
+
+#third_student{
+    width: 100%;
+    height: auto;
+}
+
+#third_image_title{
+    position: absolute;
+   top: 40px;
+}
+
+#third_title_wrapper{
+    text-align: left;
+   padding-left: 60px !important;
+   padding: 40px;
+    color: white;
+}
+
+#title_h4{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#title_h2{
+    font-size: 35px;
+    font-weight: 800;
+}
+
+#title_para{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 60px !important;
+}
+
+#read_more_button{
+    text-decoration: none;
+    border: 2px solid transparent;
+    color: #535359;
+    background-color: white;
+    padding: 15px 45px;
+    font-size: 12px;
+    font-weight: 400;
+   
+    
+}
+
+#image_box_4{
+    width: 50%;
+   height: 277px;
+   margin-top: -4px;
+    float: left;
+    background-color: #f9f9f9;
+}
+
+#license_icon{
+    font-size: 30px;
+    color: #353535;
+    margin: 30px;
+}
+
+#image_title_h3{
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 30px;
+    color: #353535;
+    line-height: 1.4em;
+    
+}
+
+#box_4_read_more{
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 700;
+    padding-left: 30px;
+    color: #353535;
+   
+}
+
+#image_box_5{
+    background-color: #fed072;
+    width: 50%;
+    height: 277px;
+    margin-top: -4px;
+    float: left;
+  
+}
+
+
+#box_5_title_h3{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: left;
+    padding-left: 30px !important;
+    margin-top: 90px;
+   
+}
+
+#second_image{
+    margin: 0px 70px;
+    clear: both;
+    
+}
+
+#second_image_box{
+    width: 100%;
+    height: auto;
+ 
+}
+
+.second_image_box_wrapper{
+    width: 50%;
+    height: auto;
+    float: left;
+
+}
+
+#second_image_box_1{
+    width: 100%;
+    height: auto;
+    margin-top: -4px;
+}
+
+#second_image_student{
+    width: 100%;
+    height: auto;
+}
+
+#second_image_box_title{
+   position: relative;
+}
+
+#second_image_title_wrapper{
+    text-align: left;
+    padding-left: 60px;
+    color: white;
+    position: absolute;
+   bottom: 160px;
+}
+
+#second_title_h4{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+#second_title_h2{
+    font-size: 35px;
+    font-weight: 800;
+}
+#second_title_para{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+   margin-bottom: 50px !important;
+}
+
+#second_title_read_more{
+    text-decoration: none;
+    color: #535359;
+    border: 2px solid transparent;
+    padding: 15px 45px;
+    background-color: white;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+#second_image_box_2{
+    width: 50%;
+    height: auto;
+    margin-top: -4px;
+    
+}
+
+.second_image_student_wrapper{
+    width: 100%;
+    height: auto;
+}
+
+#second_image_box_3{
+    background-color:#2d76b2 ;
+    float: right;
+    width: 50%;
+    height: 277px;
+    margin-top: -4px;
+   
+}
+
+.second_icon{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 60px;
+
+}
+
+#second_icon_title{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: left;
+    color: white;
+    padding-left: 30px;
+    line-height: 30px;
+}
+
+#second_icon_read_more{
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: left;
+    padding-left: 30px;
+    color:white ;
+}
+
+#second_image_box_4{
+   width: 50%;
+   height: auto;
+   margin-top: -4px;
+}
+
+#second_image_box_5{
+    width: 50%;
+    height: auto;
+    margin-top: -4px;
+    float: right;
+}
+
+#third_image{
+    margin: 0px 70px;
+}
+
+#third_image_box{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.third_image_box_wrapper{
+    width: 50%;
+    height: auto;
+    float: right;
+}
+
+#third_image_box_1{
+    width: 50%;
+    height: auto;
+}
+
+.third_image_student{
+    width: 50%;
+    height: auto;
+    margin-top: -4px;
+    
+}
+
+#third_image_title_box{
+    position: relative;
+}
+
+
+#third_image_title_wrapper{
+    position: absolute;
+     bottom: 50px;
+
+}
+#third_image_icon{
+    font-size: 25px;
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+
+}
+
+#third_image_title_h3{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: left;
+    padding-left: 30px;
+    line-height: 28px;
+    color: white;
+}
+
+#third_image_title_read_more{
+    text-decoration: none;
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+#third_image_box_2{
+    width: 50%;
+}
+
+#third_image_box_title_wrapper{
+    width: 50%;
+    height: 277px;
+    background-color: #f9f9f9;
+    float: right;
+    margin-top: -4px;
+    
+}
+
+#third_image_box2_title_h3{
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+    padding-left: 30px;
+    margin-top: 100px !important;
+    line-height: 1.4em;
+}
+
+#third_image_box_3{
+    width: 100%;
+    height: auto;
+    margin-top: -4px;
+}
+
+#third_image_student_box_3{
+    width: 100%;
+    height: auto;
+   
+}
+
+#third_image_box_3_title{
+    position: absolute;
+   top: 650px;
+}
+
+#third_image_box_3_title_wrapper{
+    text-align: left;
+    padding-left: 60px;
+    color:white ;
+}
+
+#third_title_box_3_h4{
+    font-size: 22px;
+    font-weight: 700;
+    
+}
+
+#third_image_box_3_h2{
+    font-size: 35px;
+    font-weight: 700;
+    
+}
+
+#third_box_3_para{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+   margin-bottom: 60px !important;
+}
+
+#third_box_3_read_more{
+    text-decoration: none;
+    color: #535359;
+    font-size: 12px;
+    font-weight: 400;
+    border: 2px solid transparent;
+    background-color: white;
+    padding: 15px 45px;
+}
+
+#third_image_box_4{
+    width: 50%;
+    height: auto;
+}
+
+#third_image_box_5{
+    width: 50%;
+    height: auto;
+}
+
+#box_5{
+    width: 50%;
+    height: auto;
+    float: right;
+    margin-top: -4px;
+}
+
